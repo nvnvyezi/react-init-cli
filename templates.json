@@ -1,14 +1,6 @@
 {
   "init": {
-    "place": "Hzy0913/react-template",
+    "place": "nvnvyezi/webpack-base",
     "branch": ""
-  },
-  "complete-project": {
-    "place": "Hzy0913/react-template",
-    "branch": "#complete"
-  },
-  "simple-project": {
-    "place": "Hzy0913/react-template",
-    "branch": "#simple"
   }
 }

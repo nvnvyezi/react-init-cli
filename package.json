@@ -1,18 +1,17 @@
 {
-  "name": "build-react",
-  "version": "1.0.1",
+  "name": "react-init-cli",
+  "version": "1.0.0",
   "description": "react project cli",
+  "main": "index.js",
   "bin": {
-    "build-react": "bin/react-cli"
+    "react-init-cli": "./bin/cli"
   },
   "keywords": [
     "creat-react",
     "react",
     "cli"
   ],
-  "author": "Hzy0913",
-  "license": "MIT",
-  "homepage": "",
+  "author": "nvnvyezi",
   "dependencies": {
     "chalk": "^1.1.3",
     "commander": "^2.9.0",
