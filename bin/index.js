@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const chalk = require("chalk");
 const download = require("download-git-repo");
 const ora = require("ora");
